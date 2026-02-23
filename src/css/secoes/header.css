@@ -128,7 +128,7 @@
 
    .header nav ul {
         display: none;        
-        background-color: var(--cor-fundo-escuro);         
+       background-color: #1a012b;        
         padding: 20px;       
     }
     

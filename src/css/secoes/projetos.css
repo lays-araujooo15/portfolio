@@ -11,10 +11,10 @@
     object-fit: cover; 
 }
 
-.projetos .container-projetos {
+ .projetos .container-projetos {
     padding-left: 50px;         
     margin-left: 50px;          
-}
+} 
 
 @media(max-width: 768px) {
     .projetos .container-projetos {
