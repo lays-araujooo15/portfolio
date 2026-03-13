@@ -16,5 +16,5 @@
 ## 📬 Contato
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/lays-araújo-739231252)
-- 💻 [GitHub](https://github.com/lays-araujooo15)
+- 💻 [GitHub](https://laysaraujo-dev.github.io/portfolio/)
 - 📧 laysaraujo194@gmail.com
